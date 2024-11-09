@@ -1,0 +1,36 @@
+body{
+    background-color: gray;
+}
+
+.card{
+    background-color: white;
+    border: 2px solid black;
+    height: 447px;
+    width: 370px;
+    border-radius: 7px;
+    
+}
+
+.capsule button{
+    border-radius: 6px;
+    border: none;
+}
+
+.button{
+    text-align: center;
+}
+
+.button button{
+text-align: center;
+background-color: rgb(166, 166, 206);
+color: blue;
+border: none;
+border-radius: 7px;
+}
+
+.image img{
+    width: 340px;
+    padding: 10px;
+    margin: 5px;
+
+}
